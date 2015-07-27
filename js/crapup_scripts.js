@@ -90,6 +90,6 @@ function makeElemEvade2(elem){
 
 setTimeout(function(){
 	$("div").hover(function(){
-		makeElemEvade2($(this))
+		//makeElemEvade2($(this))
 	});
 }, 500);
